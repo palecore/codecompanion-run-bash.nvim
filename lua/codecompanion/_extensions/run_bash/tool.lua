@@ -543,7 +543,7 @@ Safety:
 - Do NOT run destructive commands: rm -rf, format disks, modify system configs.
 - Do NOT install software (pip install, npm install -g, apt-get).
 - Do NOT download from untrusted URLs.
-- Do NOT print/send sensitive info (passwords, tokens, user history, personally identifiable info, etc.). 
+- Do NOT print/send sensitive info (passwords, tokens, user history, personally identifiable info, etc.).
 - Prefer read-only operations. Write only within the project workspace.]]
 
   -- ── Dynamic schema ────────────────────────────────────────────────
